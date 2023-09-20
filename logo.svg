@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 200 100">
+    <!-- Draw the letter "U" -->
+    <path d="M 30,80 Q 60,20 90,80" fill="none" stroke="#FF6F61" stroke-width="8" />
+
+    <!-- Draw the letter "B" -->
+    <path d="M 100,80 Q 130,20 160,80" fill="none" stroke="#E65100" stroke-width="8" />
+
+    <!-- Draw the connecting lines -->
+    <line x1="60" y1="80" x2="100" y2="80" stroke="#FF6F61" stroke-width="8" />
+    <line x1="100" y1="80" x2="140" y2="80" stroke="#E65100" stroke-width="8" />
+</svg>
